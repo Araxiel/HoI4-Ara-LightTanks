@@ -1,6 +1,6 @@
-# Araxiel's Cheeki Breeki
+# Araxiel's Light Tank Improvements
 
-Araxiel's Cheeki Breeki mod for Paradox Interactive's Hearts of Iron 4
+Araxiel's Light Tank Improvements mod for Paradox Interactive's Hearts of Iron 4
 
 [Click here to open a new issue][1]
 
